@@ -51,7 +51,24 @@ Treasury-managed allocations may be utilized for liquidity events, ecosystem inc
 - Burn: 0.5% of block reward
 - Developer Reward: 1.5% of block reward
 
+## Treasury
 
+The PentaChain Native Treasury is deployed and active.
+
+Treasury Address:
+0x5657ED1987E8245298043aB8c326802D3FBAf89
+https://explorer.pentamine.org/address/0x5657ED1987E8245298043aB8c326802D3FBAf89
+
+The treasury holds native PENTA reserves for:
+- Staking incentives
+- Airdrop distributions
+- Ecosystem development
+- Listings & liquidity support
+
+All treasury withdrawals are:
+- Timelock protected (minDelay: 86400 seconds)
+- Cap-limited per budget bucket
+- Executed via queued transactions
 
 ## Public Infrastructure
 
@@ -125,3 +142,4 @@ Updated documentation and ecosystem modules will be published soon.
 ## License
 
 This repository contains network configuration and documentation for PentaChain.
+
