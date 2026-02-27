@@ -130,14 +130,12 @@ RPC methods used by mining pools:
 - eth_blockNumber
 - eth_getBlockByNumber
 
----
-
----
 
 ## Website
 
 The official website is currently undergoing a redesign and infrastructure upgrade.
 Updated documentation and ecosystem modules will be published soon.
+
 
 ## License
 
