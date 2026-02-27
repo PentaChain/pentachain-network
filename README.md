@@ -13,7 +13,45 @@ PentaChain is an Ethash-based EVM blockchain powered by CoreGeth.
 - Currency Symbol: PENTA
 - Block Time: ~15 seconds
 
+
 ---
+
+## Tokenomics
+
+### Supply
+
+- Max Supply: 1,000,000,000 PENTA
+- Mining Allocation: 721,000,000 PENTA (72.1%)
+- Initial Allocation: 279,000,000 PENTA (27.9%)
+
+### Initial Allocation Breakdown
+
+- Premine (Dev1 + Dev2): 60,000,000 (6%)
+- Treasury Allocation: 219,000,000 (21.9%)
+
+Treasury Structure:
+
+- Staking Reserve: 80,000,000 (8%)
+- Airdrop Reserve: 40,000,000 (4%)
+- Future / R&D: 19,000,000 (1.9%)
+- Listings & Liquidity Allocation: 50,000,000 (5%)
+- Strategic Reserve: 30,000,000 (3%)
+
+A total of 169,000,000 PENTA (Staking + Airdrop + Future allocation) are currently secured within a treasury contract and will be deployed gradually through dedicated smart contracts and ecosystem modules.
+
+The Listings & Liquidity Allocation (50,000,000 PENTA) is reserved for exchange integrations, liquidity provisioning, and strategic ecosystem expansion.
+
+Treasury-managed allocations may be utilized for liquidity events, ecosystem incentives, or future token distribution programs, subject to governance and compliance requirements.
+
+### Mining Parameters
+
+- Initial Block Reward: 75 PENTA
+- Halving Interval: 8,409,600 blocks (~4 years)
+- Minimum Reward: 1 PENTA
+- Burn: 0.5% of block reward
+- Developer Reward: 1.5% of block reward
+
+
 
 ## Public Infrastructure
 
@@ -76,6 +114,13 @@ RPC methods used by mining pools:
 - eth_getBlockByNumber
 
 ---
+
+---
+
+## Website
+
+The official website is currently undergoing a redesign and infrastructure upgrade.
+Updated documentation and ecosystem modules will be published soon.
 
 ## License
 
