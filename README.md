@@ -42,6 +42,7 @@ A total of 169,000,000 PENTA (Staking + Airdrop + Future allocation) are current
 The Listings & Liquidity Allocation (50,000,000 PENTA) is reserved for exchange integrations, liquidity provisioning, and strategic ecosystem expansion.
 
 Treasury-managed allocations may be utilized for liquidity events, ecosystem incentives, or future token distribution programs, subject to governance and compliance requirements.
+The treasury contract is non-upgradeable and contains no self-destruct functionality.
 
 ### Mining Parameters
 
